@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.60",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "soulsaver:recovery_note"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "XXX",
+      "X#X",
+      "XXX"
+    ],
+    "key": {
+      "#": "minecraft:paper",
+      "X": "minecraft:echo_shard"
+    },
+    "unlock": {
+      "context": "AlwaysUnlocked"
+    },
+    "result": {
+      "count": 1,
+      "item": "soulsaver:soul_paper"
+    }
+  }
+}

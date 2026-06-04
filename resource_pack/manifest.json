@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Soul Saver RP v1.0",
+    "description": "Resources for Soul Saver addon",
+    "uuid": "c44abdd5-a4e6-4373-bfdc-5c771541d1ee",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 70]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c561418c-75cb-41d7-a03a-982971a26cfc",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "37469be7-f14a-4cf8-a8bc-d298b4fe9f56",
+      "version": [1, 0, 0]
+    }
+  ]
+}
