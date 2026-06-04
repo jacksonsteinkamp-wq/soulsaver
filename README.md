@@ -6,6 +6,8 @@ Store your inventory, armor, XP, health, hunger, and active effects inside a Rec
 
 Perfect for PvP kits, practice fights, dangerous exploration, minigames, and survival backups.
 
+Note that the item is named soul_paper when using /give
+
 ---
 
 ## Crafting Recipe
@@ -67,4 +69,4 @@ Recovery Notes preserve nearly everything about your player, making them useful 
 - Adventure maps  
 - Minigames  
 - Hardcore backups  
-- Practice fights  
+- Practice fights
